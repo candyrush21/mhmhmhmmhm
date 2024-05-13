@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managaing Cave"];
+const statusMessages = ["Cave Designs™"];
 
 
 let currentIndex = 0;
